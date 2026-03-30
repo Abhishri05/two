@@ -87,5 +87,5 @@ date_sk,date,day,month,month_name,quarter,year,day_of_week,day_name,is_weekend,i
 86,2025-03-27,27,3,March,1,2025,4,Thursday,False,False,False,False,False
 87,2025-03-28,28,3,March,1,2025,5,Friday,False,False,False,False,False
 88,2025-03-29,29,3,March,1,2025,6,Saturday,True,False,False,False,False
-89,2025-03-30,30,3,March,1,2025,7,Sunday,True,False,False,False,False
-90,2025-03-31,31,3,March,1,2025,1,Monday,False,True,False,True,False
+89,2025-03-30,30,3,March,1,2025,7,etiiiiiiiiiiiiiii,True,False,False,False,False
+90,2025-03-31,31,3,March,1,2025,1,Abhiiiiiiiiiiiiiiiiiiiiiiiiii,False,True,False,True,False
